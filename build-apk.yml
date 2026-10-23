@@ -1,7 +1,7 @@
 
 name: Build Android APK
 
-on: [push, workflow_dispatch]
+'on': [push, workflow_dispatch]
 
 jobs:
   build:
@@ -21,4 +21,3 @@ jobs:
         with:
           name: app-debug-apk
           path: app/build/outputs/apk/debug/*.apk
-          
