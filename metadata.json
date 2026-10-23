@@ -1,0 +1,6 @@
+{
+  "name": "Assam Hydroponic Grow",
+  "description": "অসমৰ জলবায়ু আৰু বতৰৰ বাবে উপযোগী সম্পূৰ্ণ A to Z হাইড্ৰ'পনিক কৃষি গাইড। শাক-পাচলি (লেটুচ, পালেং, লাই শাক, ধনিয়া) আৰু ফলজাতীয় শস্য (তিয়ঁহ, বিলাহী, ক্যাপচিকাম, ভোট জলকীয়া)ৰ বৈজ্ঞানিক পদ্ধতি।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
